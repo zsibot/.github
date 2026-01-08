@@ -1,4 +1,4 @@
-<img src="GenisomAI .png" width="300">
+<img src="GenisomAI.png" width="300">
 
 ZsiBot designs and manufactures intelligent robotic systems, backed by comprehensive development tools, simulation platforms, and advanced AI navigation systems. Through open-source contributions, we provide a complete technology stack — including simulation environments (MATRiX), robot models, development SDKs, autonomous navigation, and vision-language navigation frameworks — empowering researchers and developers to accelerate innovation in the robotics ecosystem.
 
