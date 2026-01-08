@@ -18,31 +18,31 @@ ZsiBot designs and manufactures intelligent robotic systems, backed by comprehen
     <tr><th> Title </th> <th>Description</th> <th>Stars</th> <th>Forks</th></tr>
     <tr>
         <td align="center" ><a href="https://github.com/zsibot/matrix"> matrix </a></td>
-        <td>  Advanced simulation platform integrating MuJoCo, Unreal Engine 5, and CARLA to provide high-fidelity, <br> interactive environments for quadruped robot research. Software-in-the-loop architecture enables realistic physics, <br> immersive visuals, and optimized sim-to-real transfer for robotics development and deployment. </td>
+        <td>  Advanced simulation platform integrating MuJoCo, Unreal Engine 5, and CARLA to provide high-fidelity, interactive environments for quadruped robot research. Software-in-the-loop architecture enables realistic physics, immersive visuals, and optimized sim-to-real transfer for robotics development and deployment. </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/zsibot/matrix?style=flat-square"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/zsibot/matrix?style=flat-square"/></td>
     </tr>
     <tr>
         <td align="center" ><a href="https://github.com/zsibot/zsibot_roamerx_lite"> zsibot_roamerx_lite </a></td>
-        <td>  Open-source navigation stack for ZsiBot robots. <br> Enables intelligent SLAM, path planning and autonomous movement. </td>
+        <td>  Open-source navigation stack for ZsiBot robots. Enables intelligent SLAM, path planning and autonomous movement. </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/zsibot/zsibot_roamerx_lite?style=flat-square"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/zsibot/zsibot_roamerx_lite?style=flat-square"/></td>
     </tr>
     <tr>
         <td align="center" ><a href="https://github.com/zsibot/zsibot_vln"> zsibot_vln </a></td>
-        <td>  Framework for developing, testing, and deploying Vision-Language Navigation (VLN) algorithms, <br> unifying the MATRiX simulation platform and VLN algorithms into a single, extensible pipeline. <br> Includes a zero-shot VLN baseline model serving as both reference implementation <br> and practical starting point for research or product development. </td>
+        <td>  Framework for developing, testing, and deploying Vision-Language Navigation (VLN) algorithms, unifying the MATRiX simulation platform and VLN algorithms into a single, extensible pipeline. Includes a zero-shot VLN baseline model serving as both reference implementation and practical starting point for research or product development. </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/zsibot/zsibot_vln?style=flat-square"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/zsibot/zsibot_vln?style=flat-square"/></td>
     </tr>
     <tr>
         <td align="center" ><a href="https://github.com/zsibot/zsibot_sdk"> zsibot_sdk </a></td>
-        <td>  Official Software Development Kit for ZsiBot robotic platforms, including the ZSL-1 model. <br> Provides comprehensive tools, libraries, and documentation to develop <br> advanced applications for ZsiBot robots. </td>
+        <td>  Official Software Development Kit for ZsiBot robotic platforms, including the ZSL-1 model. Provides comprehensive tools, libraries, and documentation to develop advanced applications for ZsiBot robots. </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/zsibot/zsibot_sdk?style=flat-square"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/zsibot/zsibot_sdk?style=flat-square"/></td>
     </tr>
     <tr>
         <td align="center" ><a href="https://github.com/zsibot/zsibot_model"> zsibot_model </a></td>
-        <td>  URDF and mesh resources for ZsiBot quadruped robots. <br> Contains kinematic structure descriptions and geometric files, <br> suitable for simulation (RViz, Gazebo) and integration projects. </td>
+        <td>  URDF and mesh resources for ZsiBot quadruped robots. Contains kinematic structure descriptions and geometric files, suitable for simulation (RViz, Gazebo) and integration projects. </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/zsibot/zsibot_model?style=flat-square"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/zsibot/zsibot_model?style=flat-square"/></td>
     </tr>
