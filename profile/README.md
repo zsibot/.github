@@ -18,7 +18,7 @@ ZsiBot designs and manufactures intelligent robotic systems, backed by comprehen
     <tr><th> Title </th> <th>Description</th> <th>Stars</th> <th>Forks</th></tr>
     <tr>
         <td align="center" ><a href="https://github.com/zsibot/matrix"> matrix </a></td>
-        <td>  Advanced simulation platform integrating MuJoCo, Unreal Engine 5, and CARLA to provide high-fidelity, interactive environments for quadruped robot research. Software-in-the-loop architecture enables realistic physics, immersive visuals, and optimized sim-to-real transfer for robotics development and deployment. </td>
+        <td>  Advanced simulation platform integrating MuJoCo, Unreal Engine 5, and CARLA to provide high-fidelity, interactive environments for robot research. Software-in-the-loop architecture enables realistic physics, immersive visuals, and optimized sim-to-real transfer for robotics development and deployment. </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/zsibot/matrix?style=flat-square"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/zsibot/matrix?style=flat-square"/></td>
     </tr>
