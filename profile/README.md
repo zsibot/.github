@@ -29,10 +29,10 @@ GENISOM-AI designs and manufactures intelligent robotic systems, backed by compr
         <td><img alt="Forks" src="https://img.shields.io/github/forks/zsibot/genisom_roamerx_open?style=flat-square"/></td>
     </tr>
     <tr>
-        <td align="center" ><a href="https://github.com/zsibot/zsibot_vln"> zsibot_vln </a></td>
+        <td align="center" ><a href="https://github.com/zsibot/genisom_vln"> genisom_vln </a></td>
         <td>  Framework for developing, testing, and deploying Vision-Language Navigation (VLN) algorithms, unifying the MATRiX simulation platform and VLN algorithms into a single, extensible pipeline. Includes a zero-shot VLN baseline model serving as both reference implementation and practical starting point for research or product development. </td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/zsibot/zsibot_vln?style=flat-square"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/zsibot/zsibot_vln?style=flat-square"/></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/zsibot/genisom_vln?style=flat-square"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/zsibot/genisom_vln?style=flat-square"/></td>
     </tr>
     <tr>
         <td align="center" ><a href="https://github.com/zsibot/genisom_l1_sdk"> genisom_L1_sdk </a></td>
