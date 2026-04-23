@@ -43,7 +43,7 @@ GENISOM-AI designs and manufactures intelligent robotic systems, backed by compr
     <tr>
         <td align="center" ><a href="https://github.com/zsibot/genisom_model"> genisom_model </a></td>
         <td>  URDF and mesh resources for GENISOM quadruped robots. Contains kinematic structure descriptions and geometric files, suitable for simulation (RViz, Gazebo) and integration projects. </td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/zsibot/genisom_model?style=flat-square"/></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/zsibot/zsibot_model?style=flat-square"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/zsibot/genisom_model?style=flat-square"/></td>
     </tr>
     </tbody>
