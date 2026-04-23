@@ -23,10 +23,10 @@ GENISOM-AI designs and manufactures intelligent robotic systems, backed by compr
         <td><img alt="Forks" src="https://img.shields.io/github/forks/zsibot/matrix?style=flat-square"/></td>
     </tr>
     <tr>
-        <td align="center" ><a href="https://github.com/zsibot/genisom_roamerx_open"> zsibot_roamerx_lite </a></td>
+        <td align="center" ><a href="https://github.com/zsibot/genisom_roamerx_open"> genisom_roamerx_open </a></td>
         <td>  Open-source navigation stack for GENISOM-AI robots. Enables intelligent SLAM, path planning and autonomous movement. </td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/zsibot/zsibot_roamerx_lite?style=flat-square"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/zsibot/zsibot_roamerx_lite?style=flat-square"/></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/zsibot/genisom_roamerx_open?style=flat-square"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/zsibot/genisom_roamerx_open?style=flat-square"/></td>
     </tr>
     <tr>
         <td align="center" ><a href="https://github.com/zsibot/zsibot_vln"> zsibot_vln </a></td>
