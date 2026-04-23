@@ -1,6 +1,6 @@
 <img src="GenisomAI.png" width="300">
 
-ZsiBot designs and manufactures intelligent robotic systems, backed by comprehensive development tools, simulation platforms, and advanced AI navigation systems. Through open-source contributions, we provide a complete technology stack — including simulation environments (MATRiX), robot models, development SDKs, autonomous navigation, and vision-language navigation frameworks — empowering researchers and developers to accelerate innovation in the robotics ecosystem.
+GENISOM-AI designs and manufactures intelligent robotic systems, backed by comprehensive development tools, simulation platforms, and advanced AI navigation systems. Through open-source contributions, we provide a complete technology stack — including simulation environments (MATRiX), robot models, development SDKs, autonomous navigation, and vision-language navigation frameworks — empowering researchers and developers to accelerate innovation in the robotics ecosystem.
 
 <a href="https://github.com/zsibot?tab=repositories">
 <img src="https://badges.strrl.dev/repos/zsibot?style=flat-square&logo=github">
