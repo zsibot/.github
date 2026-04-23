@@ -35,16 +35,16 @@ GENISOM-AI designs and manufactures intelligent robotic systems, backed by compr
         <td><img alt="Forks" src="https://img.shields.io/github/forks/zsibot/zsibot_vln?style=flat-square"/></td>
     </tr>
     <tr>
-        <td align="center" ><a href="https://github.com/zsibot/zsibot_sdk"> zsibot_sdk </a></td>
-        <td>  Official Software Development Kit for ZsiBot robotic platforms, including the ZSL-1 model. Provides comprehensive tools, libraries, and documentation to develop advanced applications for ZsiBot robots. </td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/zsibot/zsibot_sdk?style=flat-square"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/zsibot/zsibot_sdk?style=flat-square"/></td>
+        <td align="center" ><a href="https://github.com/zsibot/genisom_l1_sdk"> genisom_L1_sdk </a></td>
+        <td>  Official Software Development Kit for GENISOM L1 “钢镚” quadruped robotic platforms. Provides comprehensive tools, libraries, and documentation to develop advanced applications for GENISOM L1 robots. </td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/zsibot/genisom_l1_sdk?style=flat-square"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/zsibot/genisom_l1_sdk?style=flat-square"/></td>
     </tr>
     <tr>
-        <td align="center" ><a href="https://github.com/zsibot/zsibot_model"> zsibot_model </a></td>
-        <td>  URDF and mesh resources for ZsiBot quadruped robots. Contains kinematic structure descriptions and geometric files, suitable for simulation (RViz, Gazebo) and integration projects. </td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/zsibot/zsibot_model?style=flat-square"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/zsibot/zsibot_model?style=flat-square"/></td>
+        <td align="center" ><a href="https://github.com/zsibot/genisom_model"> genisom_model </a></td>
+        <td>  URDF and mesh resources for GENISOM quadruped robots. Contains kinematic structure descriptions and geometric files, suitable for simulation (RViz, Gazebo) and integration projects. </td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/zsibot/genisom_model?style=flat-square"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/zsibot/genisom_model?style=flat-square"/></td>
     </tr>
     </tbody>
 </table>
