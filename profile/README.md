@@ -35,10 +35,10 @@ GENISOM-AI designs and manufactures intelligent robotic systems, backed by compr
         <td><img alt="Forks" src="https://img.shields.io/github/forks/zsibot/genisom_vln?style=flat-square"/></td>
     </tr>
     <tr>
-        <td align="center" ><a href="https://github.com/zsibot/genisom_l1_sdk"> genisom_L1_sdk </a></td>
-        <td>  Official Software Development Kit for GENISOM L1 "钢镚" quadruped robotic platforms. Provides comprehensive tools, libraries, and documentation to develop advanced applications for GENISOM L1 robots. </td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/zsibot/genisom_l1_sdk?style=flat-square"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/zsibot/genisom_l1_sdk?style=flat-square"/></td>
+        <td align="center" ><a href="https://github.com/zsibot/genisom_l1_sdk_old"> genisom_L1_sdk </a></td>
+        <td>  Official Software Development Kit for GENISOM L1/L1-W "钢镚" quadruped robotic platforms. Provides comprehensive tools, libraries, and documentation to develop advanced applications for GENISOM L1/L1-W robots. </td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/zsibot/genisom_l1_sdk_old?style=flat-square"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/zsibot/genisom_l1_sdk_old?style=flat-square"/></td>
     </tr>
     <tr>
         <td align="center" ><a href="https://github.com/zsibot/genisom_robot_sdk"> genisom_robot_sdk </a></td>
